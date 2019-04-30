@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.datasets.samples_generator import make_blobs
 from itertools import permutations
-from scipy.cluster.hierarchy import linkage, dendrogram, fcluster
 
 def create_data(centers,num=100,std=0.7):
     '''
