@@ -16,7 +16,7 @@ This project included several solutions to tasks of Nankai University Machine Le
 2. Linear regression
 3. Parameter estimation
 4. Naive bayes classfication
-5. Hierachical clustering
+5. Hierarchical clustering
 6. To be continue
 
 
